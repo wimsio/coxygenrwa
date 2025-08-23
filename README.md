@@ -1,5 +1,7 @@
 ## Welcome to Coxygen Global Real World Applications MVP Project
 
+This is the source code area. The website with further details is <a href="https://coxygen.co/rwa/">here</a> 
+
 1. **Real Estate Tokenization**  
    **Industry:** Real Estate & Property Management  
    **Use Case:** Tokenize buildings into fractional NFTs (representing shares of property).
