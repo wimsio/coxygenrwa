@@ -31,7 +31,8 @@ Our work on this has been ongoing, beginning with research and exploration of Ca
 7. https://github.com/besiwims/plutus-tx-template/wiki/30-Lists-of-Plutus-Examples-&-Templates  
 8. https://github.com/besiwims/plutus-tx-template/wiki/30-Lists-of-Plutus-Examples-Example-Code  
 9. https://github.com/besiwims/plutus-tx-template/wiki/Simplified-Contract-Monad-with-example  
-10. https://github.com/besiwims/plutus-tx-template/wiki/State-Machine-A-Simple-Voting-Contract  
+10. https://github.com/besiwims/plutus-tx-template/wiki/State-Machine-A-Simple-Voting-Contract
+11. https://coxygen.co/universities/
 
 Visit the website to read about value we will bring to Cardano development ecosystem: <a href="https://coxygen.co/rwa/">here</a> 
 
