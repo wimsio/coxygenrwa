@@ -1,6 +1,39 @@
 ## Welcome to Coxygen Global Real World Applications MVP Project
 
-This is the source code area. The website with further details is <a href="https://coxygen.co/rwa/">here</a> 
+Our work on this has been ongoing, beginning with research and exploration of Cardano ecosystem.
+
+## Problems: Broken, abondoned tools and playgrounds. Just look at the list below:- 
+
+[Plutus Playground](https://playground.plutus.iohkdev.io/)
+
+<img width="1917" height="1029" alt="image" src="https://github.com/user-attachments/assets/4540843e-a17e-4390-a551-3c9b6c6a8113" />
+
+[Plutus Kuber IDE Offline](https://kuberide.com/)
+
+<img width="1917" height="1029" alt="image" src="https://github.com/user-attachments/assets/7d885532-4f37-43b1-963c-41806293c66c" />
+
+[Plutus Mock Tx not working](https://github.com/besiwims/COTS)
+
+<img width="1917" height="1029" alt="image" src="https://github.com/user-attachments/assets/6640d5f2-4bd9-423b-b1c0-421c15cfda0f" />
+
+[Programmable Tokens Video Not Available](https://docs.fluidtokens.com/DemoWST.mp4)
+
+<img width="1917" height="1029" alt="image" src="https://github.com/user-attachments/assets/4c957686-7618-4224-a792-8b89a4e14b81" />
+
+## Past Work and Explorations, moving towards rapid templating:
+
+1. https://github.com/wimsio/coxygen-mssd  
+2. https://github.com/wimsio/plutus-nix  
+3. https://github://github.com/besiwims/plutus-tx-template  
+4. https://github.com/wimsio/universities/wiki/000-%E2%80%90-Beginner-Plutus-Validators-Mockups-Readme  
+5. https://github.com/besiwims/BouncingBall  
+6. https://github.com/besiwims/plutus-tx-template/wiki/Home-:-Plutus  
+7. https://github.com/besiwims/plutus-tx-template/wiki/30-Lists-of-Plutus-Examples-&-Templates  
+8. https://github.com/besiwims/plutus-tx-template/wiki/30-Lists-of-Plutus-Examples-Example-Code  
+9. https://github.com/besiwims/plutus-tx-template/wiki/Simplified-Contract-Monad-with-example  
+10. https://github.com/besiwims/plutus-tx-template/wiki/State-Machine-A-Simple-Voting-Contract  
+
+Visit the website to read about value we will bring to Cardano development ecosystem: <a href="https://coxygen.co/rwa/">here</a> 
 
 1. **Real Estate Tokenization**  
    **Industry:** Real Estate & Property Management  
